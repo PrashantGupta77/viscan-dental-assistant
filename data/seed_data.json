@@ -1,0 +1,172 @@
+
+{
+  "patients": [
+    {
+      "patient_id": "P001",
+      "patient_name": "Priya Sharma",
+      "date_of_birth": "1994-04-12"
+    },
+    {
+      "patient_id": "P002",
+      "patient_name": "Priya Singh",
+      "date_of_birth": "1992-08-21"
+    },
+    {
+      "patient_id": "P003",
+      "patient_name": "Arjun Mehta",
+      "date_of_birth": "1988-02-15"
+    },
+    {
+      "patient_id": "P004",
+      "patient_name": "Neha Verma",
+      "date_of_birth": "1997-11-03"
+    },
+    {
+      "patient_id": "P005",
+      "patient_name": "Rohan Gupta",
+      "date_of_birth": "1990-06-27"
+    }
+  ],
+  "reports": [
+    {
+      "report_id": "R001",
+      "patient_id": "P001",
+      "report_type": "OPG",
+      "report_date": "2026-08-15",
+      "report_text": "Synthetic OPG report for Priya Sharma. The report records a fictional observation of the lower right third molar position.",
+      "findings": [
+        {
+          "observation": "Fictional horizontal orientation of the lower right third molar",
+          "anatomical_site": "Lower right third molar"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R002",
+      "patient_id": "P001",
+      "report_type": "CBCT",
+      "report_date": "2026-09-10",
+      "report_text": "Synthetic CBCT report for Priya Sharma. The fictional report describes the spatial relationship of the lower right third molar.",
+      "findings": [
+        {
+          "observation": "Spatial relationship documented for demonstration",
+          "anatomical_site": "Lower right third molar"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R003",
+      "patient_id": "P002",
+      "report_type": "OPG",
+      "report_date": "2026-09-20",
+      "report_text": "Synthetic OPG report for Priya Singh. The fictional report notes the presence of a restored tooth.",
+      "findings": [
+        {
+          "observation": "Restored tooth noted in synthetic data",
+          "anatomical_site": "Upper left posterior region"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R004",
+      "patient_id": "P002",
+      "report_type": "OPG",
+      "report_date": "2026-07-05",
+      "report_text": "Older synthetic OPG report for Priya Singh. The fictional report contains a general dental observation.",
+      "findings": [
+        {
+          "observation": "General dental observation recorded",
+          "anatomical_site": "Not specified"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R005",
+      "patient_id": "P003",
+      "report_type": "OPG",
+      "report_date": "2026-09-25",
+      "report_text": "Synthetic OPG report for Arjun Mehta. The fictional report documents a tooth alignment observation.",
+      "findings": [
+        {
+          "observation": "Tooth alignment observation",
+          "anatomical_site": "Lower anterior region"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R006",
+      "patient_id": "P003",
+      "report_type": "CBCT",
+      "report_date": "2026-08-18",
+      "report_text": "Synthetic CBCT report for Arjun Mehta. The fictional report describes an anatomical region for demonstration.",
+      "findings": [
+        {
+          "observation": "Anatomical region documented",
+          "anatomical_site": "Upper right posterior region"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R007",
+      "patient_id": "P004",
+      "report_type": "OPG",
+      "report_date": "2026-09-12",
+      "report_text": "Synthetic OPG report for Neha Verma. The fictional report records a general tooth position observation.",
+      "findings": [
+        {
+          "observation": "Tooth position observation",
+          "anatomical_site": "Upper anterior region"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R008",
+      "patient_id": "P004",
+      "report_type": "Periapical",
+      "report_date": "2026-08-22",
+      "report_text": "Synthetic periapical report for Neha Verma. The fictional report records a localized tooth observation.",
+      "findings": [
+        {
+          "observation": "Localized tooth observation",
+          "anatomical_site": "Upper left incisor"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R009",
+      "patient_id": "P005",
+      "report_type": "OPG",
+      "report_date": "2026-10-01",
+      "report_text": "Synthetic OPG report for Rohan Gupta. The fictional report records a general dental observation.",
+      "findings": [
+        {
+          "observation": "General dental observation",
+          "anatomical_site": "Lower left posterior region"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "report_id": "R010",
+      "patient_id": "P005",
+      "report_type": "CBCT",
+      "report_date": "2026-09-14",
+      "report_text": "Synthetic CBCT report for Rohan Gupta. The fictional report describes a dental region for demonstration.",
+      "findings": [
+        {
+          "observation": "Anatomical region documented",
+          "anatomical_site": "Lower left posterior region"
+        }
+      ],
+      "status": "available"
+    }
+  ]
+}

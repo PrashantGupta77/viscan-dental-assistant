@@ -1,0 +1,36 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# SQLite database and journal files
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
